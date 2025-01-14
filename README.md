@@ -1,2 +1,2 @@
 # Tableau--Adidas-Monthly-Sales-Comparison-Dashboard
-Created an interactive Tableau dashboard comparing Adidas' current and previous monthly sales, providing clear insights into month-over-month performance and highlighting trends by retailer and product category.
+Using Adidas' 2020 and 2021 sales data sourced from Kaggle, I developed a Tableau dashboard to visualize the data effectively. The dashboard provides a clear month-over-month comparison of current and previous sales, showcasing key trends by retailer and product category. This enables quick identification of sales patterns and delivers clear, actionable performance metrics, supporting data-driven strategic decision-making and optimized sales strategies.
